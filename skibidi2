@@ -1,0 +1,13 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {skibidi
+  color: yellow;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 57px;
+}
